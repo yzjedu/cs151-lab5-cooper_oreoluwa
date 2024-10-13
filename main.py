@@ -35,6 +35,6 @@ while choice != SENTINEL:
     # Otherwise if the user chooses to view their balance, output balance
     elif choice == 'V':
         print('Your balance is: ', balance)
-    # Otherwise print that the output was invalid
+    # Otherwise print that the output was invalid.
     else:
         print('Invalid choice.')
