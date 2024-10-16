@@ -1,6 +1,14 @@
-# PUT THE INTRO COMMENTS HERE
+# Programmers: Cooper Nazar, Oreoluwa Adebusoye
+# Course:  CS151, Zelalem Yalew
+# Due Date: 10/16/2024
+# Lab Assignment: 5
+# Problem Statement: This program is designed to simulate an ATM, where a user can view their balance, deposit money, and withdraw money
+# Data In: Amount of money to deposit or withdraw
+# Data Out: Balance
+# Credits: None
 
 # Output the purpose of the program.
+print('This program is meant to simulate an ATM.')
 
 # Set the sentinel to 'E' and the initial balance to 1000
 SENTINEL = 'E'
@@ -41,8 +49,10 @@ while choice != SENTINEL:
     elif choice == 'V':
         print('Your balance is: ', balance)
     # Otherwise print that the output was invalid.
-    else:
+    elif choice != 'E':
         print('Invalid choice.')
+    else:
+        print('Thank you for using this program.')
     # Warn the user that they will be charged 5% interest if their balance is negative
     if balance < 0:
         print('Negative balance. You will be charged 5% interest!')
