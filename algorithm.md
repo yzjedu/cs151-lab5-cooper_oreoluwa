@@ -25,5 +25,7 @@
       5. Output the current balance.
    5. Otherwise, if the user chooses to view balance (V):
       1. Output the current balance.
-   6. Otherwise:
+   6. Otherwise, if the user chooses to exit (E):
+      1. Output 'Exiting the ATM. Thank you!'
+   7. Otherwise:
       1. Output an error message indicating that the input was invalid.
