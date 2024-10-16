@@ -1,9 +1,6 @@
 # Algorithm Document
 #### PLEASE! PLEASE! PLEASE! THINK before you code...
 
-Notes:
-- Make it so it gives an error when the user gives a negative number (maybe by searching for a negative sign in the string)
-
 Algorithm:
 1. Output the purpose of the program
 2. Set the sentinel to 'E'

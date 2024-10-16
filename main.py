@@ -31,6 +31,7 @@ while choice != SENTINEL:
         # Make sure the user can't input a negative number
         while deposit_amount < 0:
             print('Invalid amount.')
+            deposit_amount = 0
         # Add the amount deposited to the balance
         balance += deposit_amount
         # Output new balance
@@ -41,6 +42,7 @@ while choice != SENTINEL:
         # Make sure the user can't input a negative number
         while withdraw_amount < 0:
             print('Invalid amount.')
+            withdraw_amount = 0
         # Subtract the withdrawal amount from the balance
         balance -= withdraw_amount
         # Output new balance
