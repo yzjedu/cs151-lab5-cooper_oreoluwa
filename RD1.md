@@ -1,53 +1,54 @@
-# Reflection Document
+ENCRYPTED:
+# Fstzsqhwcb Rcqiasbh
 
-* Drive Full Name  : Cooper Nazar
-* Partner Full Name: Oreoluwa Adebusoye
-* Student ID: 001930106
+* Rfwjs Tizz Boas  : Qccdsf Bonof
+* Dofhbsf Tizz Boas: Cfscziko Orspigcms
+* Ghirsbh WR: 001930106
 
-Objective:
+Cpxsqhwjs:
 
-What were you supposed to learn/accomplish?
+Kvoh ksfs mci giddcgsr hc zsofb/oqqcadzwgv?
 
-- We were supposed to get practice with designing and programming loops, testing code, and error checking
+- Ks ksfs giddcgsr hc ush dfoqhwqs kwhv rsgwubwbu obr dfcufoaawbu zccdg, hsghwbu qcrs, obr sffcf qvsqywbu
 
-Procedure:
+Dfcqsrifs:
 
-What steps were followed and what techniques did you use to solve the problem?
+Kvoh ghsdg ksfs tczzcksr obr kvoh hsqvbweisg rwr mci igs hc gczjs hvs dfcpzsa?
 
-- We used loops and various 'if' statements to make sure the output would be what we wanted
+- Ks igsr zccdg obr jofwcig 'wt' ghohsasbhg hc aoys gifs hvs cihdih kcizr ps kvoh ks kobhsr
 
-What were the Key concepts explored?
+Kvoh ksfs hvs Ysm qcbqsdhg sldzcfsr?
 
-- Loops, error checking, and various other aspects of Python we've learned so far
+- Zccdg, sffcf qvsqywbu, obr jofwcig chvsf ogdsqhg ct Dmhvcb ks'js zsofbsr gc tof
 
-Results:
+Fsgizhg:
 
-Did your results match what you expected to get?
+Rwr mcif fsgizhg aohqv kvoh mci sldsqhsr hc ush?
 
-- Eventually, the results did match what I expected
+- Sjsbhiozzm, hvs fsgizhg rwr aohqv kvoh W sldsqhsr
 
-Reflection:
+Fstzsqhwcb:
 
-What challenges did you encounter?
+Kvoh qvozzsbusg rwr mci sbqcibhsf?
 
-- Figuring out where to start the loop was probably the most difficult challenge I encountered
+- Twuifwbu cih kvsfs hc ghofh hvs zccd kog dfcpopzm hvs acgh rwttwqizh qvozzsbus W sbqcibhsfsr
 
-How did you follow the first 3 rules of programming?
+Vck rwr mci tczzck hvs twfgh 3 fizsg ct dfcufoaawbu?
 
-- I planned out what to do before I coded, I made sure to add comments to explain what each piece of code did, and I did a lot of testing, which is practice
+- W dzobbsr cih kvoh hc rc pstcfs W qcrsr, W aors gifs hc orr qcaasbhg hc sldzowb kvoh soqv dwsqs ct qcrs rwr, obr W rwr o zch ct hsghwbu, kvwqv wg dfoqhwqs
 
-Did you overcome them, and how?
+Rwr mci cjsfqcas hvsa, obr vck?
 
-- I did, mainly through consulting with the professor and my partner
+- W rwr, aowbzm hvfciuv qcbgizhwbu kwhv hvs dfctsggcf obr am dofhbsf
 
-Any key takeaways?
+Obm ysm hoysokomg?
 
-- Many things we can use in everyday life, such as ATMs, work because of complex code.
+- Aobm hvwbug ks qob igs wb sjsfmrom zwts, giqv og OHAg, kcfy psqoigs ct qcadzsl qcrs.
 
-Do you think you learned what you were supposed to learn for this lab?
+Rc mci hvwby mci zsofbsr kvoh mci ksfs giddcgsr hc zsofb tcf hvwg zop?
 
-- I think I learned what I was supposed to learn.
+- W hvwby W zsofbsr kvoh W kog giddcgsr hc zsofb.
 
-What was it like working with your partner?
+Kvoh kog wh zwys kcfywbu kwhv mcif dofhbsf?
 
-- It wasn't too bad. We had some difficulty meeting up to discuss the assignment, but that's not her fault. I had a busy week, and I'm sure it was the same for her.
+- Wh kogb'h hcc por. Ks vor gcas rwttwqizhm asshwbu id hc rwgqigg hvs oggwubasbh, pih hvoh'g bch vsf toizh. W vor o pigm kssy, obr W'a gifs wh kog hvs goas tcf vsf.
